@@ -20,5 +20,7 @@ Python & Data Science réalisés sur Google Colab.
 | [TD05](td05_enonce.ipynb) | Matplotlib, dictionnaires et Pandas | :white_check_mark: |
 | [TD06](td06enonce.ipynb) | Logique, flux de contrôle et boucles | :white_check_mark: |
 | [TD07](td07enonce.ipynb) | Étude de cas et mini-projet 1 | :white_check_mark: |
+| (TD08](td08enonce.ipynb) | Pandas : agrégation et transformation | :white_check_mark: |
+
 
 Cours de M. Guéry — Faculté d'Économie, UPJV
